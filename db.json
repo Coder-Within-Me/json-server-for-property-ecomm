@@ -1,0 +1,222 @@
+{
+    "properties": [
+      {
+        "id": "fab3",
+        "ownerName": "Test",
+        "contact": 9999,
+        "state": "MH",
+        "city": "Pune",
+        "area": "Kalyani Nagar 123",
+        "propertyType": "Offices",
+        "bhkType": "",
+        "areaSqft": 152,
+        "transactionType": "Sale",
+        "amount": 5000,
+        "status": "Rented",
+        "action": true
+      },
+      {
+        "id": "bb93",
+        "ownerName": "Test 123",
+        "contact": 9999,
+        "state": "MH",
+        "city": "Pune",
+        "area": "Kalyani Nagar 123",
+        "propertyType": "Flat",
+        "bhkType": "3 BHK",
+        "areaSqft": 152,
+        "transactionType": "Sale",
+        "amount": 5000,
+        "status": "Sold"
+      },
+      {
+        "id": "c72d",
+        "ownerName": "Mayur",
+        "contact": 165,
+        "state": "UP",
+        "city": "LW",
+        "area": "ABC",
+        "propertyType": "Bungalow",
+        "bhkType": "Twin Bungalow",
+        "areaSqft": 1336,
+        "transactionType": "Sale",
+        "amount": 78000,
+        "status": "Sold",
+        "action": false
+      },
+      {
+        "id": "9ada",
+        "ownerName": "Abhee",
+        "contact": 9999,
+        "state": "GJ",
+        "city": "AB",
+        "area": "Gift City",
+        "propertyType": "Bungalow",
+        "bhkType": "Twin Bungalow",
+        "areaSqft": 1235,
+        "transactionType": "Rent",
+        "amount": 3000,
+        "status": "Rented",
+        "action": true
+      },
+      {
+        "id": "e2d9",
+        "ownerName": "Asif pros",
+        "contact": 8524,
+        "state": "MH",
+        "city": "Mumbai",
+        "area": "MG road",
+        "propertyType": "Shop",
+        "bhkType": "",
+        "areaSqft": 452,
+        "transactionType": "Rent",
+        "amount": 9990,
+        "status": "Rented",
+        "action": false
+      },
+      {
+        "id": "f3fb",
+        "ownerName": "vikas homes",
+        "contact": 4561,
+        "state": "MP",
+        "city": "Indore",
+        "area": "V road",
+        "propertyType": "Flat",
+        "bhkType": "2 BHK",
+        "areaSqft": 1080,
+        "transactionType": "Rent",
+        "amount": 2500,
+        "status": "Rented",
+        "action": false
+      },
+      {
+        "id": "74ab",
+        "ownerName": "test",
+        "contact": 149752,
+        "state": "Goa",
+        "city": "Panaji",
+        "area": "Beach",
+        "propertyType": "Bungalow",
+        "bhkType": "Twin Bungalow",
+        "areaSqft": 1500,
+        "transactionType": "Rent",
+        "amount": 25000,
+        "action": false,
+        "status": "Rented"
+      },
+      {
+        "id": "fb1e",
+        "ownerName": "adfdsfs",
+        "contact": 5698653,
+        "state": "ABC",
+        "city": "fdhgj",
+        "area": "zvxcczc",
+        "propertyType": "Flat",
+        "bhkType": "4 BHK",
+        "areaSqft": 789,
+        "transactionType": "Sale",
+        "amount": 741
+      }
+    ],
+    "users": [
+      {
+        "id": "576c",
+        "userName": "Mayur123",
+        "email": "mayurgura0297@gmail.com",
+        "password": "Mayur@123",
+        "confirmPassword": "Mayur@123"
+      },
+      {
+        "id": "791f",
+        "userName": "Asif123",
+        "email": "asif@allata.com",
+        "password": "Asif@123",
+        "confirmPassword": "Asif@123"
+      },
+      {
+        "id": "578f",
+        "userName": "pallavi168",
+        "email": "pallavi@gmail.com",
+        "password": "Pallavi@168",
+        "confirmPassword": "Pallavi@168"
+      },
+      {
+        "id": "d182",
+        "userName": "Vikas123",
+        "email": "vikas@gmail.com",
+        "password": "Vikas@999",
+        "confirmPassword": "Vikas@999"
+      },
+      {
+        "id": "0ddb",
+        "userName": "test",
+        "email": "test@gmail.com",
+        "password": "Test@999",
+        "confirmPassword": "Test@999"
+      },
+      {
+        "id": "9083",
+        "userName": "Krushna123",
+        "email": "Krushna123@gmail.com",
+        "password": "Krushna@123",
+        "confirmPassword": "Krushna@123"
+      }
+    ],
+    "cart": [
+      {
+        "id": "8faf",
+        "customerId": "576c",
+        "propertyId": "9ada"
+      },
+      {
+        "id": "5786",
+        "customerId": "576c",
+        "propertyId": "74ab"
+      },
+      {
+        "id": "916f",
+        "customerId": "578f",
+        "propertyId": "9ada"
+      },
+      {
+        "id": "f62c",
+        "customerId": "0ddb",
+        "propertyId": "f3fb"
+      },
+      {
+        "id": "e83a",
+        "customerId": "0ddb",
+        "propertyId": "c72d"
+      },
+      {
+        "id": "a8c2",
+        "customerId": "0ddb",
+        "propertyId": "bb93"
+      },
+      {
+        "id": "5862",
+        "customerId": "0ddb",
+        "propertyId": "9ada"
+      },
+      {
+        "id": "33de",
+        "customerId": "0ddb",
+        "propertyId": "74ab"
+      },
+      {
+        "id": "97fa",
+        "customerId": "791f",
+        "propertyId": "74ab"
+      },
+      {
+        "id": "5139",
+        "customerId": "791f",
+        "propertyId": "fab3"
+      },
+      {
+        "id": "6b49",
+        "customerId": "9083",
+        "propertyId": "9ada"
+      }
+    ]
+  }
